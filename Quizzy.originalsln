@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quizzy.Console", "Quizzy.Console\Quizzy.Console.csproj", "{84BB8391-DAD0-4217-B8A8-781F00E4121D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84BB8391-DAD0-4217-B8A8-781F00E4121D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BB8391-DAD0-4217-B8A8-781F00E4121D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BB8391-DAD0-4217-B8A8-781F00E4121D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BB8391-DAD0-4217-B8A8-781F00E4121D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C19CAC5-0709-443B-82A1-04F2B2EEA550}
+	EndGlobalSection
+EndGlobal
